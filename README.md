@@ -2,6 +2,8 @@
 
 ![headshot](/E15.jpg)
 
+<img src="/E15.jpg" width="48">
+
 ## About Me
 
 I am a Caltech computer scientist with a focus on applied machine learning. My research experience is in artificial intelligence, computer vision, and robot learning, specifically deep reinforcement learning and learning from visual demonstrations. My industry experience is in building algorithms and software for large scale data analysis, specifically related to smart environments and Internet of Things.
