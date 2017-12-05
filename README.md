@@ -1,11 +1,24 @@
-## Suraj Nair
+# Suraj Nair
 
-### About Me
+## About Me
 
 I am a Caltech computer scientist with a focus on applied machine learning. My research experience is in artificial intelligence, computer vision, and robot learning, specifically deep reinforcement learning and learning from visual demonstrations. My industry experience is in building algorithms and software for large scale data analysis, specifically related to smart environments and Internet of Things.
 
 
-### Projects/Research
+## Projects, Talks, Posters
+
+### Multi Agent Option Learning for Team Planning
+This ongoing research is advised by Professor Yisong Yue at Caltech and in collaboration with Stephan Zheng and Anshul Ramachandran. We aim to use reinforcement learning to learn the team coordination and planning that we see basketball and soccer teams exhibit. Specifically, we employ Multi-Agent Deep Determenistic Policy Gradients with unsupervised option learning in the RoboCup Half Field Offense Simulation environment. 
+
+### Grounded Neural Program Generation
+
+### Neural Task Programming
+
+### Machine Learning: Applying Neural Networks to IoT Use Cases
+
+### Annotated Reconstruction of 3D Spaces Using Drones
+
+### Improving the Earthquake Early Response System Using Machine Learning
 
 
 
