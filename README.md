@@ -20,6 +20,7 @@ This project was advised by Professor Silvio Savarese and Professor Fei-Fei Li a
 I moderated a panel at the 2017 Internet of Things Solutions World Congress on machine learning applied to IoT. My fellow panelists included Dr Richard Soley, chairman of the IIC, Dr. Stan Schneider, CEO of RTI, and Dr. Joe Paradiso, Professor at the MIT Media Lab. Please find the full session [here](https://youtu.be/OuvjRmOvtwo)
 
 ### Annotated Reconstruction of 3D Spaces Using Drones
+This project began as a class project in Caltech CS/ME 132B and CS/EE 148, taught by Professors Joel Burdick and Pietro Perona. The goal of this project was the create an end to end perception, mapping, and expolration framework for drones. This involved (1) creating an optimized version of Faster RCNN to run on drone hardware, (2) developing a method to convert 2D images with bounding boxes and drone position and orientation to a 3D grid with annotations, and (3) designing a planning algorithm for exploring the space. My co-authors Anshul Ramachandran and Peter Kundzicz and I extended this work and submitted it to the 2017 IEEE MIT Undergraduate Research in Technology conference, where it won the [Best Paper Presentation Award](http://eas.caltech.edu/news/1050)
 
 ### Improving the Earthquake Early Response System Using Machine Learning
 
