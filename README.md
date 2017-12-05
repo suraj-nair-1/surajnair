@@ -1,6 +1,6 @@
 # Suraj Nair
 
-![headshot](https://github.com/surajnaircaltech/surajnair/blob/master/E15.jpg =240x)
+![headshot](/E15.jpg)
 
 ## About Me
 
