@@ -1,10 +1,13 @@
 ## Suraj Nair
 
-You can use the [editor on GitHub](https://github.com/surajnaircaltech/surajnair.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Caltech computer scientist with a focus on applied machine learning. My research experience is in artificial intelligence, computer vision, and robot learning, specifically deep reinforcement learning and learning from visual demonstrations. My industry experience is in building algorithms and software for large scale data analysis, specifically related to smart environments and Internet of Things.
 
-### Markdown
+
+### Projects/Research
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
