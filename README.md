@@ -1,8 +1,6 @@
 # Suraj Nair
 
-![headshot](/E15.jpg)
-
-<img src="/E15.jpg" width="48">
+![headshot](/pic.jpg)
 
 ## About Me
 
