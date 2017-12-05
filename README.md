@@ -17,6 +17,7 @@ This ongoing research is advised by Professor Silvio Savarese and Professor Fei-
 This project was advised by Professor Silvio Savarese and Professor Fei-Fei Li at Stanford and in collaboration with Danfei Xu, Animesh Garg, Yuke Zhu, and Julian Gao. We aim to tackle generalization in imitation learning, where given some domain knowledge in a type of task, one can learn a policy to execute a new task with just one video demonstration. Specifically, we use a policy instantiated as a Neural Program, conditioned on a video demonstration. This work is under review at ICRA 2018 and appeared as a talk and poster at CoRL 2017. For more details see [here](https://stanfordvl.github.io/ntp/)
 
 ### Machine Learning: Applying Neural Networks to IoT Use Cases
+I moderated a panel at the 2017 Internet of Things Solutions World Congress on machine learning applied to IoT. My fellow panelists included Dr Richard Soley, chairman of the IIC, Dr. Stan Schneider, CEO of RTI, and Dr. Joe Paradiso, Professor at the MIT Media Lab. Please find the full session [here](https://youtu.be/OuvjRmOvtwo)
 
 ### Annotated Reconstruction of 3D Spaces Using Drones
 
