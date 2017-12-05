@@ -23,34 +23,8 @@ I moderated a panel at the 2017 Internet of Things Solutions World Congress on m
 This project began as a class project in Caltech CS/ME 132B and CS/EE 148, taught by Professors Joel Burdick and Pietro Perona. The goal of this project was the create an end to end perception, mapping, and expolration framework for drones. This involved (1) creating an optimized version of Faster RCNN to run on drone hardware, (2) developing a method to convert 2D images with bounding boxes and drone position and orientation to a 3D grid with annotations, and (3) designing a planning algorithm for exploring the space. My co-authors Anshul Ramachandran and Peter Kundzicz and I extended this work and submitted it to the 2017 IEEE MIT Undergraduate Research in Technology conference, where it won the [Best Paper Presentation Award](http://eas.caltech.edu/news/1050)
 
 ### Improving the Earthquake Early Response System Using Machine Learning
+The goal of the project was to use machine learning methods to improve the accuracy and efficiency of the California Earthquake Early Response System. This system is implemented throughout California, and uses real time waveform data from several hundred seismological stations to raise an alarm of an earthquake. This system is critical, as it allows for a warning that despite only being ~10 seconds in advance is capable of halting processes at airports and metros, saving lives. In a team of 5 undergaduates, advised by Professor Yisong Yue, Professor Steven Low, and Postdoc Men-Andrin Meier, we developed a method that was both efficient and accurate, halving the existing number of false positives. We aim to publish the work soon and in the long term hope to incorporate our algorithm into the production system.
 
+## Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/surajnaircaltech/surajnair.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I can be reached by email at surajnair.caltech@gmail.com
