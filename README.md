@@ -1,6 +1,6 @@
 # Suraj Nair
 
-![headshot](/E15.jpg)
+![headshot](/E15.jpg =200x)
 
 ## About Me
 
