@@ -4,6 +4,8 @@
 
 I am a Caltech computer scientist with a focus on applied machine learning. My research experience is in artificial intelligence, computer vision, and robot learning, specifically deep reinforcement learning and learning from visual demonstrations. My industry experience is in building algorithms and software for large scale data analysis, specifically related to smart environments and Internet of Things.
 
+[CV](/SurajNairGradResume.pdf)
+
 
 ## Projects | Talks | Posters
 
@@ -23,7 +25,7 @@ I moderated a panel at the 2017 Internet of Things Solutions World Congress on m
 This project began as a class project in Caltech CS/ME 132B and CS/EE 148, taught by Professors Joel Burdick and Pietro Perona. The goal of this project was the create an end to end perception, mapping, and expolration framework for drones. This involved (1) creating an optimized version of Faster RCNN to run on drone hardware, (2) developing a method to convert 2D images with bounding boxes and drone position and orientation to a 3D grid with annotations, and (3) designing a planning algorithm for exploring the space. My co-authors Anshul Ramachandran and Peter Kundzicz and I extended this work and submitted it to the 2017 IEEE MIT Undergraduate Research in Technology conference, where it won the [Best Paper Presentation Award](http://eas.caltech.edu/news/1050)
 
 ### Improving the Earthquake Early Response System Using Machine Learning
-The goal of the project was to use machine learning methods to improve the accuracy and efficiency of the California Earthquake Early Response System. This system is implemented throughout California, and uses real time waveform data from several hundred seismological stations to raise an alarm of an earthquake. This system is critical, as it allows for a warning that despite only being ~10 seconds in advance is capable of halting processes at airports and metros, saving lives. In a team of 5 undergaduates, advised by Professor Yisong Yue, Professor Steven Low, and Postdoc Men-Andrin Meier, we developed a method that was both efficient and accurate, halving the existing number of false positives. We aim to publish the work soon and in the long term hope to incorporate our algorithm into the production system. This work also appeared as a [poster](https://docs.google.com/presentation/d/1q3W528OFKWTJnpsoGnWsx1xoH7ayYfyBLzM3cKd9v34/edit?usp=sharing) at the 2017 Caltech Meeting of the Minds.
+The goal of the project was to use machine learning methods to improve the accuracy and efficiency of the California Earthquake Early Response System. This system is implemented throughout California, and uses real time waveform data from several hundred seismological stations to raise an alarm of an earthquake. This system is critical, as it allows for a warning that despite only being ~10 seconds in advance is capable of halting processes at airports and metros, saving lives. In a team of 5 undergraduates, advised by Professor Yisong Yue, Professor Steven Low, and Postdoc Men-Andrin Meier, we developed a method that was both efficient and accurate, halving the existing number of false positives. We aim to publish the work soon and in the long term hope to incorporate our algorithm into the production system. This work also appeared as a [poster](https://docs.google.com/presentation/d/1q3W528OFKWTJnpsoGnWsx1xoH7ayYfyBLzM3cKd9v34/edit?usp=sharing) at the 2017 Caltech Meeting of the Minds.
 
 ## Contact
 
