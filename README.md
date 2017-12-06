@@ -4,10 +4,10 @@
 
 I am a Caltech computer scientist with a focus on applied machine learning. My research experience is in artificial intelligence, computer vision, and robot learning, specifically deep reinforcement learning and learning from visual demonstrations. My industry experience is in building algorithms and software for large scale data analysis, specifically related to smart environments and Internet of Things.
 
-[CV](/SurajNairGradResume.pdf)
+[CV](/SurajNairGradResume.pdf), [Github](https://github.com/surajnaircaltech/), [LinkedIn](https://www.linkedin.com/in/surajnaircaltech/)
 
 
-## Projects | Talks | Posters
+## Papers | Talks | Posters
 
 ### Multi Agent Option Learning for Team Planning
 This ongoing research is advised by Professor Yisong Yue at Caltech and in collaboration with Stephan Zheng and Anshul Ramachandran. We aim to use reinforcement learning to learn the team coordination and planning that we see basketball and soccer teams exhibit. Specifically, we employ Multi-Agent Deep Determenistic Policy Gradients with unsupervised option learning in the RoboCup Half Field Offense Simulation environment. We hope to submit this to either ICML 2018 or NIPS 2018.
