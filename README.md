@@ -4,7 +4,7 @@ I am a Caltech computer scientist with a focus on applied machine learning.
 
 My research experience is in artificial intelligence, computer vision, and robot learning, specifically deep reinforcement learning and learning from visual demonstrations. I work with Decisions, Optimization, and Learning @ Caltech ([DOLCIT](http://dolcit.cms.caltech.edu/index.html)) and the Stanford Vision and Learning Lab ([SVL](http://cvgl.stanford.edu/projects/jackrabbot/)).
 
-My industry experience is in building algorithms and software for large scale data analysis, specifically related to smart environments and Internet of Things. I have worked with GE Digital, the OpenFog Consortium, The Hive, and several startups.
+My industry experience is in building algorithms and software for intelligent systems and large scale data analysis, specifically related to smart environments and Internet of Things. I have worked with GE Digital, the OpenFog Consortium, The Hive, and several startups.
 
 [CV](/SurajNairGradResume.pdf), [Github](https://github.com/surajnaircaltech/), [LinkedIn](https://www.linkedin.com/in/surajnaircaltech/)
 
