@@ -1,7 +1,5 @@
 ## About Me
 
-![](/URTC2017-269.JPG)
-
 I am a Caltech computer scientist with a focus on applied machine learning. 
 
 My research experience is in artificial intelligence, computer vision, and robot learning, specifically deep reinforcement learning and learning from visual demonstrations. I work with Decisions, Optimization, and Learning @ Caltech ([DOLCIT](http://dolcit.cms.caltech.edu/index.html)) and the Stanford Vision and Learning Lab ([SVL](http://cvgl.stanford.edu/projects/jackrabbot/)).
@@ -34,3 +32,4 @@ The goal of the project was to use machine learning methods to improve the accur
 ## Contact
 
 I can be reached by email at surajnair.caltech@gmail.com
+![](/URTC2017-269.JPG)
