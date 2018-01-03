@@ -1,6 +1,6 @@
 ## About Me
 
-![Best Paper Presentation at IEEE MIT URTC 2017](https://github.com/surajnaircaltech/surajnair/blob/master/URTC2017-269.JPG)
+<img src="https://github.com/surajnaircaltech/surajnair/blob/master/URTC2017-269.JPG"/>
 
 I am a Caltech computer scientist with a focus on applied machine learning. 
 
