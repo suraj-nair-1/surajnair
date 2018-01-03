@@ -1,6 +1,6 @@
 ## About Me
 
-![](/URTC2017-269.jpg)
+![](/URTC2017-269.JPG)
 
 I am a Caltech computer scientist with a focus on applied machine learning. 
 
