@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Suraj Nair
 description: Researcher in Machine Learning/Robotics @ Caltech/Stanford
+plugins:
+  - jekyll-redirect-from
